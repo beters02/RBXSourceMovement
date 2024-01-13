@@ -1,0 +1,12 @@
+{
+  "name": "RBXSourceMovement",
+  "tree": {
+    "$className": "DataModel",
+
+    "StarterPlayer": {
+      "StarterCharacterScripts": {
+        "$path": "src"
+      }
+    }
+  }
+}
